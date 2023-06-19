@@ -5,3 +5,5 @@
 - I created the first visual chart which was a stacked column chart and it represented the sales for different sub categories.
 - I created a pie chart representing the sales per region and a donut chart giving us the sales by segment. These charts are mostly recommended for data with only a few distinct values.
 - It is important to know which chart would represent a data better. The sales for different sub categories is better represented using stacked bar chart,so I modified it to that and used a stacked column chart for sales per category data.
+
+Finally created various other charts to represent the correlation between different data points. The final dashboard is interactive and can be used to represent data visually and thus easy to understand.
